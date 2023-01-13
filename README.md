@@ -18,7 +18,7 @@ As a business owner, it would be helpful to be able to view and manage the depar
 ![screenshot](/lib/img/Screenshot%202023-01-12%20191504.png)
 
 ## Demo
-![demovideo](/lib/img/Untitled_%20Jan%2012%2C%202023%207_08%20PM.webm)
+Untitled_ Jan 12, 2023 7_08 PM.webm
 
 ## Author
 Ben L.
